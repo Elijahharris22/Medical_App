@@ -1,0 +1,10 @@
+<resources>
+    <string name="tvTitle">Convert Patient Weight</string>
+    <string name="app_name">Medical App</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="rbLBToKilo">Convert Pounds to Kilograms</string>
+    <string name="rbKiloToLB">Convert Kilograms to Pounds</string>
+    <string name="btConvert">Convert Weight</string>
+
+
+</resources>
